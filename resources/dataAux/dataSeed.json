@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Argentinha",
+        "short_name": "ARG",
+        "picture_url": "flag-argentina"
+    },
+    {
+        "name": "Brasil",
+        "short_name": "BRA",
+        "picture_url": "flag-brasil"
+    }
+]
